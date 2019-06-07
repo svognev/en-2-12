@@ -1,112 +1,40 @@
 {
     "features": [
       {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
+        "title": "Create formulas",
+        "text": "For some of you, a convenient SMASHDOCs formula editor was a must. Our goal was to arrange the process of creating an equation as simple and easy to run as it can possibly get. Therefore, we additionally developed the “Formulas helper” area inside of the editor. Search amongst numerous symbols/operations/relations and get the help you need for entering the equation correctly.\n\nAlso, don’t worry about the mistakes. If an error occurs, SMASHDOCs will not allow you to proceed further with the formula creation. Both the error and the hint on how to override it will be displayed in the “Formula preview”.",
+        "icon": "https://i.ibb.co/f1xWpj5/icon01.png",
+        "image": "https://i.ibb.co/k1hbtMV/im01.png"
       },
       {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
+        "title": "Import/export comments",
+        "text": "Not only are the comments importable/exportable from/into Word right now but you can also control which ones should be exported. For this check the box “Visible in export” just before clicking on “Create” in the relevant comment section.",
+        "icon": "https://i.ibb.co/RBFDJ19/icon02.png",
+        "image": "https://i.ibb.co/FDWm9WB/im02.png"
       },
       {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
+        "title": "Quick Start menus",
+        "text": "The gole of Quick Start menus is to enhance the editing process by including mostly used paragraph styles into the tab bar as separate icons. This way you can acsess them easier and quicker.\n\nQuick Start Menus are configurable for each system individually, thus their icons can be either default or custom.",
+        "icon": "https://i.ibb.co/9g6z0SZ/icon03.png",
+        "image": "https://i.ibb.co/7b547Cw/im03.png"
       },
       {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
+        "title": "Insert inline files",
+        "text": "Inline files are extremely helpful to keep all linked documents in one place. Let’s say you are a lawyer and write a lawsuit. To do so you need an email from your client, a receipt, a calculation etc. It is extremely time consuming to switch between the lawsuit document itself and all of those attachments. To avoid this an inline file is inserted directly into your SMASHDOC.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/Q9kC9GV/im04.png"
       },
       {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
+        "title": "Formatting settings menu in the tab bar",
+        "text": "We added formatting settings to the tab bar and splitted them in three separate groups: all, paragraph styles and inline styles. Firstly, choosing the needed style got easier than ever. Secondly, if you press on any section in the document the style used in it will be displayed in the formatting styles menu.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/Xznxzvf/im05.png"
       },
       {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
-      },
-      {
-        "title": "Search and Replace styles",
-        "text": "From now on the 'Search and Replace' option can be also applied to the paragraph styles. Just search for a specific style and replace it with the one you like.\n\nAs usual, two replacement options are available: either replacing the chosen style in one/some of the sections or everywhere in the document.",
-        "icon": "https://i.ibb.co/61wWGVh/imagebot-5.png",
-        "image": "https://i.ibb.co/1XM8TNj/image02-9eb516a8.jpg"
+        "title": "Special characters for publishing",
+        "text": "Special characters are an inevitable part when creating a document for publishing purposes. Using our big variety of special characters not only will simplify your editing process but also grant you the typography experience you have never had before. Just click on the special character’s icon and choose the character you need e.g. from quotation marks, hyphens, fractures etc.\n\nNamely, special character “no-break space” guarantees that the text “100” and “km” will not be broken: if it does not fit at the end of a line, it will be moved to the next line. Or in case someone else’s words should be used in your writing, then choose quotation marks from the special character’s list.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/NW4Sdch/im06.png"
       }
     ]
 }
